@@ -9,7 +9,7 @@ println "Hello, $name! Welcome to Gradle World!"
 }
 }
 
-apat menjalankan tugas dengan menjalankan perintah berikut: "./gradlew greetingTask -Pname=YourName"
+dapat menjalankan tugas dengan menjalankan perintah berikut: "./gradlew greetingTask -Pname=YourName"
 
 ![image](https://github.com/WRAP1994/Gradle/assets/144769621/1526f8c4-d92c-4f3a-b712-b5e7e00f325d)
 
